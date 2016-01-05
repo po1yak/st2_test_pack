@@ -1,0 +1,8 @@
+---
+name: view-data
+pack: st2-test-pack
+runner_type: "local-shell-cmd"
+description: Test Action
+enabled: true
+entry_point: view-data.sh
+parameters:

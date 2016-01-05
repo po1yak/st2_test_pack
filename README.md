@@ -1,17 +1,17 @@
 [![StackStorm](https://github.com/stackstorm/st2/raw/master/stackstorm_logo.png)](http://www.stackstorm.com)
 
-# st2-template-pack Integration Pack
+# Test Integration Pack
 
-[Short description of what the pack does]
+It's a pack for the testing auto deploy action
 
 ## Configuration
 
-[Description of the configuration options]
+There is no peculiarities in the configuration
 
 ## Sensors
 
-[Description of all the available sensors]
+There is no Sensors
 
 ## Actions
 
-[Description of all the available actions]
+There is only one action it is core.local cmd=date

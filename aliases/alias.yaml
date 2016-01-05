@@ -1,0 +1,7 @@
+---
+name: view-data
+pack: st2-test-pack
+description: "Alias for the test action"
+action_ref: "st2-test-pack.view-data"
+formats:
+    - "view-data"

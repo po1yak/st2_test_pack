@@ -5,3 +5,7 @@ description: "Alias for the test action"
 action_ref: "st2_test_pack.view-data"
 formats:
     - "view-data"
+ack:
+  enabled: false
+result:
+  format: "action completed! {~} {{ execution.result.stdout }}"

@@ -1,11 +1,11 @@
 ### Place information about your pack version here.
 ---
-name: st2_test_ack
+name: st2_test_pack
 description: Test Integration Pack
 keywords:
     - example
     - test
 version: 0.1
 author: Sergey Polyakov
-email: ss.v.polyakov@gmail.com
+email: s.v.polyakov@gmail.com
 

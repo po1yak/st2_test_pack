@@ -1,7 +1,7 @@
 ---
 name: view-data
-pack: st2-test-pack
+pack: st2_test_pack
 description: "Alias for the test action"
-action_ref: "st2-test-pack.view-data"
+action_ref: "st2_test_pack.view-data"
 formats:
     - "view-data"
